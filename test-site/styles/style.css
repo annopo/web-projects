@@ -1,0 +1,25 @@
+html {
+    font-size: 10px;
+    font-family: 'Lato', sans-serif;
+    color: black;
+    text-align: center;
+}
+
+h1 {
+    font-size: 60px;
+    text-shadow: 3px 3px 2px #8A8888;
+}
+
+h2 {
+    font-size: 20px;
+    border-bottom: 1px solid #8A8888;
+}
+
+p, li {
+    font-size: 15px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
