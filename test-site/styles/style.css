@@ -6,20 +6,20 @@ html {
 }
 
 h1 {
-    font-size: 60px;
-    text-shadow: 3px 3px 2px #8A8888;
+    font-size: 50px;
 }
 
 h2 {
-    font-size: 20px;
+    font-size: 30px;
     border-bottom: 1px solid #8A8888;
 }
 
 p, li {
-    font-size: 15px;
+    font-size: 20px;
 }
 
 img {
+    width: 400px;
     display: block;
     margin: 0 auto;
 }
