@@ -1,21 +1,109 @@
 html {
-    font-size: 10px;
     font-family: 'Lato', sans-serif;
     color: black;
     text-align: center;
 }
 
-h1 {
-    font-size: 50px;
+li {
+    list-style: none;
 }
 
-h2 {
-    font-size: 30px;
-    border-bottom: 1px solid #8A8888;
+.header {
+    background-color: #EDAD0B;
+    height: 90px;
 }
 
-p, li {
+.header-logo {
+    font-size: 36px;
+    color: #fff;
+    float: left;
+    padding: 20px 40px;
+}
+
+.header-list li {
     font-size: 20px;
+    color: #fff;
+    float: left;
+    padding: 33px 20px;
+}
+
+.main {
+    padding: 100px 80px;
+}
+
+.copy-container h1{
+    font-size: 80px;
+    padding: 30px;
+    margin: 30px;
+}
+
+.hello h2{
+    font-size: 40px;
+}
+
+.hello p {
+    font-size: 30px;
+    padding: 10px;
+}
+
+.favorites {
+    height: 700px;
+    margin-top: 80px;
+}
+
+.section-title {
+    font-size: 40px;
+    border-top: 2px solid #dee7ec;
+    padding-top: 30px;
+    margin: 50px;
+}
+
+.favorite-thing {
+    float: left;
+    margin-right: 60px;
+}
+
+.favorite-thing p {
+    font-size: 25px;
+    margin-top: 20px;
+}
+
+.contact-form {
+    padding-top: 100px;
+}
+
+input, textarea {
+    width: 400px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding: 20px;
+    font-size: 18px;
+    border: 1px solid #dee7ec;
+}
+
+.contact-submit {
+    background: #dee7ec;
+    color: #889eab;
+}
+
+.footer {
+    background-color: #F3C759;
+    color: #fff;
+    height: 120px;
+    padding: 20px 10px;
+}
+
+.footer-logo {
+    font-size: 32px;
+    float: left;
+}
+
+.footer-list {
+    float: right;
+}
+
+.footer-list li {
+    padding-bottom: 20px;
 }
 
 img {
