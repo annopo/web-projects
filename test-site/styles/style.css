@@ -79,6 +79,11 @@ header {
 
 .contact-form {
     padding-top: 100px;
+    text-align: center;
+}
+
+.contact-form h1 {
+    font-size: 30px;
 }
 
 .contact-form p {
@@ -92,6 +97,7 @@ input, textarea {
     padding: 20px;
     font-size: 18px;
     border: 1px solid #dee7ec;
+    text-align: center;
 }
 
 .contact-submit {
