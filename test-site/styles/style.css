@@ -118,17 +118,10 @@ input, textarea {
 }
 
 .footer-list {
-    float: right;
+    text-align: center;
+    color:#fff;
 }
 
-.btn {
-    display: inline-block;
-}
-
-.btn:hover{
-    color: black;
-}
-
-.fa {
-    margin-right: 5px;
+.footer-list i {
+    padding: 10px;
 }
