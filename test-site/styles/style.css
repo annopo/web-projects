@@ -15,7 +15,7 @@ li {
 
 .top-wrapper {
     height: 500px;
-    padding: 150px 0 150px 0;
+    padding: 0;
     background-image: url(../images/sea.jpg);
     background-size: cover;
     color:#fff;
@@ -78,8 +78,9 @@ header {
 }
 
 .contact-form {
-    padding-top: 100px;
+    padding-top: 10px;
     text-align: center;
+    background-color: lightgreen;
 }
 
 .contact-form h1 {
@@ -93,7 +94,7 @@ header {
 input, textarea {
     width: 400px;
     margin-top: 10px;
-    margin-bottom: 30px;
+    margin-bottom: 10px;
     padding: 20px;
     font-size: 18px;
     border: 1px solid #dee7ec;
